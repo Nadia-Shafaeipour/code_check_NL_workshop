@@ -1,7 +1,7 @@
 # code_check_NL_workshop
 Using Bloom filters to estimate traveler counts while ensuring high privacy protection
 
-Introduction
+# Introduction
 This document explains a Python script designed for analyzing public transportation networks using Bloom Filters. The script evaluates different network topologies - line, intersect, and ring under three different scenarios to count the movement of travelers between nodes. Code Structure The script is structured as follows:
 
 Importing Libraries: Essential Python libraries such as pandas, numpy, and others are imported.
@@ -23,5 +23,5 @@ Main Script Logic: After reading the input data, the script filters it based on 
 
 Scenario-Based Analysis: The script runs three different analyses for each scenario. These scenarios include simple detection of presence at stations, distinguishing between check-ins and check-outs, and considering specific lines in the network.
 
-How to Use
+# How to Use
 running the Jupyter notebook file "check_code.ipynb". View Results: Observe the output that includes estimated sizes at each station per scenario and accuracy measurements.
