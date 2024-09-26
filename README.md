@@ -24,4 +24,5 @@ Main Script Logic: After reading the input data, the script filters it based on 
 Scenario-Based Analysis: The script runs three different analyses for each scenario. These scenarios include simple detection of presence at stations, distinguishing between check-ins and check-outs, and considering specific lines in the network.
 
 # How to Use
-running the Jupyter notebook file "check_code.ipynb". View Results: Observe the output that includes estimated sizes at each station per scenario and accuracy measurements.
+running the Jupyter notebook file "check_code.ipynb". Data will be read automatically 
+. View Results: Observe the output that includes estimated sizes at each station per scenario and accuracy measurements.
