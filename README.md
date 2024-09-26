@@ -25,4 +25,4 @@ Scenario-Based Analysis: The script runs three different analyses for each scena
 
 # How to Use
 running the Jupyter notebook file "check_code.ipynb". Data will be read automatically 
-. View Results: Observe the output that includes estimated sizes at each station per scenario and accuracy measurements.
+. View Results in a couple of minutes: Observe the output, which includes estimated sizes at each station per scenario and accuracy measurements.
